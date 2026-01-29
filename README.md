@@ -115,7 +115,7 @@ RFID-Attendance-System/
 ![Lab Setup](hardware/images/lab.jpeg)
 
 ### STM32 Board
-![STM32](hardware/images/stm32.png)
+![STM32](hardware/images/stm332.png)
 
 
 ---

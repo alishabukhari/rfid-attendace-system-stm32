@@ -30,7 +30,7 @@ To design a reliable RFID-based system that:
 ---
 
 ## 🧠 System Architecture
-
+```
 RFID Card
 ↓
 RFID Reader
@@ -40,11 +40,11 @@ STM32 MCU
 ├── EEPROM → Log Storage
 ├── Buttons → Navigation
 └── LCD → Display Output
-
+```
 ---
 
 ## 📁 Project Structure
-
+```
 RFID-Attendance-System/
 │
 ├── firmware/
@@ -67,7 +67,7 @@ RFID-Attendance-System/
 │ └── demo.mp4
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Key Features
@@ -103,7 +103,20 @@ RFID-Attendance-System/
 
 ## 📸 Hardware Setup
 
-![RFID Setup](hardware/wiring.jpg)
+## 📸 Hardware Setup
+
+### RFID Reader
+![RFID Reader](hardware/images/RFID%20reader.png)
+
+### Wiring Diagram
+![Wiring Diagram](hardware/images/wiring.jpg)
+
+### Lab Setup
+![Lab Setup](hardware/images/lab.jpeg)
+
+### STM32 Board
+![STM32](hardware/images/stm32.png)
+
 
 ---
 
